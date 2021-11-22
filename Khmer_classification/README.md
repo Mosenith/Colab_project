@@ -1,4 +1,5 @@
-# Khmer Classification
+# Khmer Classication
 
-* 2 Cate
-* Multi Cate
+Classification Khmer News Articles
+* 2 Categories
+* Multiple Categories
