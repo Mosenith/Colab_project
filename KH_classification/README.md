@@ -1,6 +1,8 @@
 # Project Title
 
-Simple overview of use/purpose.
+Classification Khmer News Article
+* 2 Categories
+* Multiple Categories
 
 ## Description
 
