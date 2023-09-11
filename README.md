@@ -1,1 +1,1 @@
-# Colab_project
+# Colab_project : Segmentation on Khmer News Articles
